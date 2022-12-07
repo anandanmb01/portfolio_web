@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anandanmb01/portfolio_website.git",
+  "author": "anandanmb01 <anandanmb01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
