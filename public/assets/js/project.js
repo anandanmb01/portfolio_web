@@ -18,7 +18,7 @@ const projects = [
     cardImage: "https://img.gta5-mods.com/q95/images/los-santos-backup-server-room/076e8c-10.png",
     description: "GTA-5 Gaming server hosted on amazon aws developed by fivem with selfhosted MariyaDB database controlledby ssh rdp .. protocols",
     tagimg: "",
-    Previewlink: "",
+    Previewlink: "http://eternitygaming.ddns.net:40120",
     Githublink: "",
   },
   // {
