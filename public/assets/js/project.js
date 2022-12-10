@@ -21,6 +21,22 @@ const projects = [
     Previewlink: "http://eternitygaming.ddns.net:40120",
     Githublink: "",
   },
+    {
+    title: "ROS controlled Drone",
+    cardImage: "https://cdn.mos.cms.futurecdn.net/e633b3d54b8ec06bd4a26729dd8ea014.jpg",
+    description: "Stm 32 Microcontroller based drone controlled by ROS linux library programmed using python. System is controlling through keyboard key trigger, webinterface etc",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "",
+  },
+    {
+    title: "RC controlled self-balanced bike",
+    cardImage: "https://wevolver-project-images.s3.amazonaws.com/0.qeki7a2yuzpl.jpg",
+    description: "Inspired from Cubli project, RC controlled self vertical balanced bike developed by stm 32 microcontroller programmed in C, Calibration and system interfacing is done using python serial monitor library and Matlab",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "",
+  },
   // {
   //   title: "Chess Engine",
   //   cardImage: "assets/images/project-page/chess.jpg",

@@ -228,6 +228,16 @@ const volunteershipcards = [
     cardImage: "http://cdn.onlinewebfonts.com/svg/img_545601.png",
     description:"",
   },
+    {
+    title: "Dfinity",
+    cardImage: "https://assets.stickpng.com/images/63079e9edcb2d1d1e80cc78f.png",
+    description:"",
+  },
+    {
+    title: "Motoko",
+    cardImage: "https://miro.medium.com/max/1400/1*Xe0Pjcry90UcPQ2bIoKxaw.png",
+    description:"progress",
+  },
   // {
   //   title: "",
   //   cardImage: "",
